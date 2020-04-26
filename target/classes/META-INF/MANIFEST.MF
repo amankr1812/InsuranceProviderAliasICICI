@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Aman
+Build-Jdk: 12.0.1
+Implementation-Title: insurance-assignment-rest-api
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.staxrt.tutorial
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/insurance-assignment-rest-api
+Created-By: Maven Integration for Eclipse
+
